@@ -1,0 +1,15 @@
+C:\Users\WarSoul\source\repos\EventsTest\bin\Debug\net6.0\EventsTest.exe
+C:\Users\WarSoul\source\repos\EventsTest\bin\Debug\net6.0\EventsTest.deps.json
+C:\Users\WarSoul\source\repos\EventsTest\bin\Debug\net6.0\EventsTest.runtimeconfig.json
+C:\Users\WarSoul\source\repos\EventsTest\bin\Debug\net6.0\EventsTest.dll
+C:\Users\WarSoul\source\repos\EventsTest\bin\Debug\net6.0\EventsTest.pdb
+C:\Users\WarSoul\source\repos\EventsTest\obj\Debug\net6.0\EventsTest.csproj.AssemblyReference.cache
+C:\Users\WarSoul\source\repos\EventsTest\obj\Debug\net6.0\EventsTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\WarSoul\source\repos\EventsTest\obj\Debug\net6.0\EventsTest.AssemblyInfoInputs.cache
+C:\Users\WarSoul\source\repos\EventsTest\obj\Debug\net6.0\EventsTest.AssemblyInfo.cs
+C:\Users\WarSoul\source\repos\EventsTest\obj\Debug\net6.0\EventsTest.csproj.CoreCompileInputs.cache
+C:\Users\WarSoul\source\repos\EventsTest\obj\Debug\net6.0\EventsTest.dll
+C:\Users\WarSoul\source\repos\EventsTest\obj\Debug\net6.0\refint\EventsTest.dll
+C:\Users\WarSoul\source\repos\EventsTest\obj\Debug\net6.0\EventsTest.pdb
+C:\Users\WarSoul\source\repos\EventsTest\obj\Debug\net6.0\EventsTest.genruntimeconfig.cache
+C:\Users\WarSoul\source\repos\EventsTest\obj\Debug\net6.0\ref\EventsTest.dll
